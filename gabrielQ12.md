@@ -1,4 +1,7 @@
-![Cover](https://github.com/gabrielQ12/gabrielQ12/tree/main/img/Brain.png)
+<p align="center">
+  <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/Brain.png" alt="Cover">
+</p>
+
 
 <p align="center"> Bonjour à toi qui passe sur ce merveilleux profil GitHub !!! </p>
 
