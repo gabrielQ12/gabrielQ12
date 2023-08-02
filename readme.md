@@ -21,7 +21,6 @@
  <p>  Je suis un etudiant developpeur chez <strong>O'clock</strong>. 
  <br> J'y apprend principalement le <strong>JavaScript</strong>. 
  <br> Je me suis également découvert un gout pour la Cyber-Sécurité.
- <br> Je me suis découvert une apétance pour la cyber securité.
  <br> Je suis également des cours de <strong>Python</strong> et de <em>cyber sécurité</em> chez <strong>Udemy</strong>   
  </p>
 </header>
