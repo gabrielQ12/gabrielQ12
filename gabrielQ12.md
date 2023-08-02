@@ -1,3 +1,4 @@
+![Cover](https://github.com/gabrielQ12/img/Brain.png)
 
 <p align="center"> Bonjour à toi qui passe sur ce merveilleux profil GitHub !!! </p>
 
