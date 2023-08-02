@@ -17,17 +17,17 @@
 </head>
 <body>
 
-    <header>
-      <p>  Je suis un etudiant developpeur chez <strong>O\'clock</strong>. 
-      <br> J'y apprend principalement le <strong>JavaScript</strong>. 
-      <br> Je me suis également découvert un gout pour la Cyber-Sécurité.
-      <br> Je me suis découvert une apétance pour la cyber securité.
-      <br> Je suis également des cours de <strong>Python</strong>
-      <br> et de <em>cyber sécurité</em> chez <strong>Udemy</strong></p>
-    </header>
+<header>
+ <p>  Je suis un etudiant developpeur chez <strong>O'clock</strong>. 
+ <br> J'y apprend principalement le <strong>JavaScript</strong>. 
+ <br> Je me suis également découvert un gout pour la Cyber-Sécurité.
+ <br> Je me suis découvert une apétance pour la cyber securité.
+ <br> Je suis également des cours de <strong>Python</strong> et de <em>cyber sécurité</em> chez <strong>Udemy</strong>   
+ </p>
+</header>
 
-  <footer class="footer">
-  </footer>
+<footer class="footer">
+</footer>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/js/bulma.min.js"></script>
 </body>
 </html>
@@ -53,30 +53,46 @@ console.log(linkedinLink);
 
 ```python
 
-!/usr/bin/env/python3
+#!/usr/bin/env python3
 
 OS_utilise = {
-# Par ordre d'aprentissage'
+    # Par ordre d'apprentissage
     1: "Windows",
     2: "Ubuntu",
     3: "Raspberry OS (Pi-Hole & recalbox)",
     4: "Kali Linux"
-
 }
 
-def afficher_systemes_exploitation():
-    print(OS_utilise[1])  
-    print(OS_utilise[3])  
-
+def systemes_exploitation():
+    print("Systèmes d'exploitation:")
+    print(OS_utilise[1])
+    print(OS_utilise[3])
+    print()
 
 def langage_en_cours_d_apprentissage(langage):
-    print ("En ce moment j'apprends" + langage + ".")
+    print("En ce moment j'apprends " + langage + ".")
+
+def outils_que_j_utilise(outils):
+    print("J'ai appris à utiliser " + outils + ".")
+
+def main():
+    systemes_exploitation()
 
     langage_en_cours_d_apprentissage("HTML")
     langage_en_cours_d_apprentissage("CSS")
     langage_en_cours_d_apprentissage("JavaScript")
     langage_en_cours_d_apprentissage("SQL")
     langage_en_cours_d_apprentissage("Python")
+
+    outils_que_j_utilise("Node JS")
+    outils_que_j_utilise("PostgreSQL")
+    outils_que_j_utilise("Sequelize")
+    outils_que_j_utilise("EJS")
+    outils_que_j_utilise("Postman")
+
+if __name__ == "__main__":
+    main()
+
 
 
 ```
