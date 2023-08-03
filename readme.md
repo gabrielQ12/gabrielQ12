@@ -12,17 +12,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Présentation</title>
+  <title><h1Présentation</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
 </head>
 <body>
 
 <header>
- <p>  Je suis un etudiant developpeur chez <strong>O'clock</strong>. 
- <br> J'y apprend principalement le <strong>JavaScript</strong>. 
- <br> Je me suis également découvert un gout pour la Cyber-Sécurité.
- <br> Je suis également des cours de <strong>Python</strong> et de <em>cyber sécurité</em> chez <strong>Udemy</strong>   
- </p>
+    <h1> Ma présentation </h1>
+ <p>  Je suis un etudiant developpeur chez <strong>O'clock</strong>. </p>
+ <p> J'y apprend principalement le <strong>JavaScript</strong>. </p>
+ <p> Je me suis également découvert un gout pour la Cyber-Sécurité. </p>
+ <p> Je suis également des cours de <strong>Python</strong> et de <em>cyber sécurité</em> chez <strong>Udemy</strong> </p>  
+ 
 </header>
 
 <footer class="footer">
