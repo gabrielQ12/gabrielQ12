@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> Bonjour à toi qui passe sur ce merveilleux profil GitHub !!! </p>
+<p align="center"> Bonjour à toi qui passe sur ce merveilleux profil GitHub !! </p>
 
 
 ```html
