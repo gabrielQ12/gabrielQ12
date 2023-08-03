@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/img/Brain-removebg-preview.png" alt="Cover">
+  <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/Brain-removebg-preview.png" alt="Cover">
 </p>
 
 
