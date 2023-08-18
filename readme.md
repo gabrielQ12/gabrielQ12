@@ -32,6 +32,9 @@
 </body>
 </html>
 ```
+<p align="center">
+  <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
+</p>
 
 ```js
 const isRecruteur = true; 
@@ -50,6 +53,8 @@ const linkedinLink = `<a href="${url}">Cliquez ici pour aller sur mon profil Lin
 console.log(message);
 console.log(linkedinLink);
 ```
+
+
 
 ```python
 
