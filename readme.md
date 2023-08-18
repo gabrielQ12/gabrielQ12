@@ -55,7 +55,31 @@ console.log(message);
 console.log(linkedinLink);
 ```
 
+```sql
 
+BEGIN;
+
+DROP TABLE IF EXISTS "User", "Repository";
+
+CREATE TABLE "User" (
+    "id_user"                       SERIAL PRIMARY KEY,
+    "name"                           TEXT NOT NULL,
+    "email"                          TEXT NOT NULL UNIQUE
+);
+
+CREATE TABLE "Repository" (
+    "id_repository"                 SERIAL PRIMARY KEY,
+    "content"                       TEXT NOT NULL,
+    "date"                          TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+INSERT INTO "User" ("name", "email") VALUES ('gabriel', 'gabriel.quinette@hotmail.fr');
+
+INSERT INTO "Repository" ("content", "date") VALUES ('Le plus souvent possible', NOW());
+
+COMMIT;
+
+```
 
 
 ```js
