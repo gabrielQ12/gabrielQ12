@@ -32,6 +32,7 @@
 </body>
 </html>
 ```
+
 <p align="center">
   <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
 </p>
@@ -53,6 +54,19 @@ const linkedinLink = `<a href="${url}">Cliquez ici pour aller sur mon profil Lin
 console.log(message);
 console.log(linkedinLink);
 ```
+
+
+
+
+```js
+  if(bugs){
+    iHateProgramming();
+  }else{
+    iLoveProgramming();
+  }
+```
+
+
 
 
 
