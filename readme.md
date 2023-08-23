@@ -90,7 +90,14 @@ COMMIT;
   }
 ```
 
+```python
 
+le_code_fonctionne = True
+if le_code_fonctionne:
+    print("Génial !")
+else: 
+    print("Read The Fucking Manuel !")
+```
 
 
 
