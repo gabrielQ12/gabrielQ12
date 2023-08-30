@@ -5,6 +5,9 @@
 
 <p align="center"> Bonjour à toi qui passe sur ce merveilleux profil GitHub !! </p>
 
+```bin
+01000101 01101101 01100010 01100001 01110101 01100011 01101000 01100101 00100000 01101101 01101111 01101001 00001010
+``` 
 
 ```html
 <!DOCTYPE html>
