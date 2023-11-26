@@ -3,6 +3,7 @@
 </p>
 
 
+
 <p align="center"> Bonjour à toi qui passe sur ce  profil GitHub !! </p>
 
 ```bin
@@ -10,7 +11,6 @@
 ``` 
 
 
-```
 
 <p align="center">
   <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
