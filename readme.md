@@ -21,26 +21,17 @@
 
 ```mermaid
   graph TD;
-    A[Wake up] --> B[Learn to code];
-    B[Learn to code] --> C[Eat];
-    C[Eat] --> D[Code];
-    D[Code] --> E[Eat again];
-    E[Eat again] --> F[Code again];
-    F[Code again] --> G[Sleep(a little bit)];
+    A[Wake up]             --> B[Learn to code];
+    B[Learn to code]       --> C[Eat];
+    C[Eat]                 --> D[Code];
+    D[Code]                --> E[Eat again];
+    E[Eat again]           --> F[Code again];
+    F[Code again]          --> G[Sleep(a little bit)];
     G[Sleep(a little bit)] --> A[Wake up];
 ```
 
 
-```mermaid
-  graph TD;
-    A[Wake up] --| B[Learn to code];
-    B[Learn to code] --| C[Eat];
-    C[Eat] --| D[Code];
-    D[Code] --| E[Eat again];
-    E[Eat again] --| F[Code again];
-    F[Code again] --| G[Sleep(a little bit)];
-    G[Sleep(a little bit)] --| A[Wake up];
-```
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielQ12&icons=true&theme=dark)](https://github.com/gabrielQ12/github-readme-stats)
