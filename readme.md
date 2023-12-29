@@ -21,13 +21,13 @@
 
 ```mermaid
   graph TD;
-    A[Wake up]             --> B[Learn to code];
-    B[Learn to code]       --> C[Eat];
-    C[Eat]                 --> D[Code];
-    D[Code]                --> E[Eat again];
-    E[Eat again]           --> F[Code again];
-    F[Code again]          --> G[Sleep(a little bit)];
-    G[Sleep(a little bit)] --> A[Wake up];
+  A[Wake up] --> B[Learn to code];
+  B[Learn to code] --> C[Eat];
+  C[Eat] --> D[Code];
+  D[Code] --> E[Eat again];
+  E[Eat again] --> F[Code again];
+  F[Code again] --> G[Sleep('a little bit')];
+  G[Sleep('a little bit')] --> A[Wake up];
 ```
 
 
