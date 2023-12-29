@@ -9,11 +9,8 @@
 ``` 
 
 
-
-<p align="center">
-  <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
-</p>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+          
 
 ![Les Stats GitHub de Gabriel ](https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark&hide_rank=true)
 
