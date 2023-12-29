@@ -26,8 +26,8 @@
   C[Eat] --> D[Code];
   D[Code] --> E[Eat again];
   E[Eat again] --> F[Code again];
-  F[Code again] --> G[Sleep('a little bit')];
-  G[Sleep('a little bit')] --> A[Wake up];
+  F[Code again] --> G[Sleep 'a little bit'];
+  G[Sleep 'a little bit'] --> A[Wake up];
 ```
 
 
