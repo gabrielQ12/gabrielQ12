@@ -15,7 +15,7 @@
 </p>
 
 
-<a href="https://github-readme-stats.vercel.app"
+<a 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark&hide_rank=true&include_all_commits">
 </a>
 
