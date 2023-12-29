@@ -21,13 +21,14 @@
 
 ```mermaid
   graph TD;
-       Waking up
-      Learn to code
-      Eat
-      Code
-      Eat
-      Code
-      Sleep(a little bit)
+      Wake up --> Learn to code;
+      Learn to code --> Eat;
+      Eat --> Code ;
+      Code --> Eat ;
+      Eat --> Code again;
+      Code again --> Sleep(a little bit) ;
+      Sleep(a little bit) --> Wake up ;
+
 ```
 
 
