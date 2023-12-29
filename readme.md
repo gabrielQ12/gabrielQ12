@@ -20,14 +20,14 @@
 ### My daily routine : 
 
 ```mermaid
-  graph TD;
-      Wake up --> Learn to code;
-      Learn to code --> Eat;
-      Eat --> Code ;
-      Code --> Eat ;
-      Eat --> Code again;
-      Code again --> Sleep(a little bit) ;
-      Sleep(a little bit) --> Wake up ;
+graph TD;
+      A[Wake up] --> B[Learn to code];
+      B[Learn to code] --> C[Eat];
+      C[Eat] --> D[Code] ;
+      D[Code] --> E[Eat again] ;
+      E[Eat again] --> F[Code again];
+      F[Code again] --> G[Sleep(a little bit)] ;
+      G[Sleep(a little bit)] --> A[Wake up] ;
 
 ```
 
