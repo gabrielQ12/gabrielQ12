@@ -16,7 +16,7 @@
 
 ![Les Stats GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielQ12&layout=compact)](https://github.com/gabrielQ12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielQ12&icons=true&theme=dark)](https://github.com/gabrielQ12/github-readme-stats)
 
 ```js
   if(bugs){
