@@ -20,16 +20,14 @@
 ### My daily routine : 
 
 ```mermaid
-graph TD;
-  A[Wake up] -->|Start day| B[Learn to code];
-  B[Learn to code] -->|After waking up| C[Eat];
-  C[Eat] -->|After coding| D[Code];
-  D[Code] -->|After coding| E[Eat again];
-  E[Eat again] -->|After eating| F[Code again];
-  F[Code again] -->|Before sleeping| G[Sleep(a little bit)];
-  G[Sleep(a little bit)] -->|End day| A[Wake up];
-
-
+flowchart TD;
+  A[Wake up] --> B[Learn to code];
+  B[Learn to code] --> C[Eat];
+  C[Eat] --> D[Code];
+  D[Code] --> E[Eat again];
+  E[Eat again] --> F[Code again];
+  F[Code again] --> G[Sleep(a little bit)];
+  G[Sleep(a little bit)] --> A[Wake up];
 ```
 
 
