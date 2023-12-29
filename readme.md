@@ -17,8 +17,23 @@
 
 ![Les Stats GitHub de Gabriel ](https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark&hide_rank=true)
 
+### My daily routine : 
+
+```mermaid
+  graph TD;
+       Waking up
+      Learn to code
+      Eat
+      Code
+      Eat
+      Code
+      Sleep(a little bit)
+```
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielQ12&icons=true&theme=dark)](https://github.com/gabrielQ12/github-readme-stats)
+
+
 
 ```js
   if(bugs){
