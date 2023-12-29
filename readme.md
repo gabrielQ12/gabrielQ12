@@ -14,9 +14,9 @@
   <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
 </p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark&hide_rank=true&include_all_commits">
-
+<p align="center"
+<img  src="https://github-readme-stats.vercel.app/api?username=gabrielQ12&show_icons=true&theme=dark&hide_rank=true&include_all_commits">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielQ12&icons=true&theme=dark)](https://github.com/gabrielQ12/github-readme-stats)
 
