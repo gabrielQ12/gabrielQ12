@@ -14,7 +14,7 @@
   <img src="https://github.com/gabrielQ12/gabrielQ12/blob/main/img/git6.png" alt="Qualitys">
 </p>
 
-[![Les Stats GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielQ12)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielQ12)](https://github.com/gabrielQ12/github-readme-stats_icons=true&theme=dark)
 
 ```js
   if(bugs){
